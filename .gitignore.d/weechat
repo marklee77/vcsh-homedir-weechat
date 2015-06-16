@@ -6,4 +6,4 @@
 !.gitignore.d
 !.gitignore.d/weechat
 !.weechat
-!.weechat/*
+!.weechat/*.conf
