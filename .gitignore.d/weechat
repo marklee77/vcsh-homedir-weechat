@@ -1,0 +1,9 @@
+*
+!.config
+!.config/mr
+!.config/mr/config.d
+!.config/mr/config.d/weechat
+!.gitignore.d
+!.gitignore.d/weechat
+!.weechat
+!.weechat/*
