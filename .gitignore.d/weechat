@@ -7,3 +7,5 @@
 !.gitignore.d/weechat
 !.weechat
 !.weechat/*.conf
+!.weechat/perl
+!.weechat/perl/*.pl
